@@ -1,0 +1,13 @@
+aiogram==3.18.0
+aiohttp==3.11.13
+sqlalchemy==2.0.39
+python-dotenv==1.0.1
+requests==2.32.3
+alembic==1.15.1
+pytz~=2025.2
+# если надо работать с sqlite
+aiosqlite==0.21.0
+# если надо фоновые задачи
+apscheduler==3.11.0
+
+#greenlet
